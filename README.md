@@ -10,6 +10,15 @@
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
+## Configuration
+
+Configured for:
+
+* Ender 3 Pro
+* MKS Gen L (AT Mega 2560)
+* TMC 2208 (Standalone) - All Axis
+* REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+
 ## Marlin 2.0
 
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
